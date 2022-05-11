@@ -1,15 +1,2 @@
-﻿# Git_project
-![Screenshot_2022-05-11-09-06-05-14_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764063-28ff71d1-07f7-4e25-8135-d0b06650609b.jpg)
-![Screenshot_2022-05-11-09-05-50-31_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764070-bedab66c-8e1f-4c5d-aabf-2595384e4a60.jpg)
-![Screenshot_2022-05-11-09-05-42-18_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69![Screenshot_2022-05-11-09-08-28-24_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764081-89187c8c-0975-4e51-9c78-a8c666e1f81d.jpg)![Screenshot_2022-05-11-09-08-36-73_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764083-2730cf4d-8ca8-4cac-bb67-52c26465348a.jpg)
-![Screenshot_2022-05-11-09-10-36-20_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764087-3de88a43-1173-4aff-be88-3d4ba0b1c52c.jpg)
-![Screenshot_2022-05-11-09-10-46-10_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764088-632b7251-95cf-4d52-b3c5-e111855d7294.jpg)
-![Screenshot_2022-05-11-09-10-54-23_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764090-dc63278b-a1da-48cf-8261-066d2b3a5dc3.jpg)
-![Screenshot_2022-05-11-09-11-00-09_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764091-770b2ec1-64f5-40d6-ba5d-37f747ee4a36.jpg)
-![Screenshot_2022-05-11-09-07-23-43_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764094-7159bcf2-bd2f-4599-b0fb-de61501c4709.jpg)
-![Screenshot_2022-05-11-09-06-44-67_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764095-68503e24-6a53-44ec-80d7-9d8bd24dea2d.jpg)
-![Screenshot_2022-05-11-09-06-15-69_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764097-02da744b-8c08-487c-a2c7-35580dba07dc.jpg)
-![Screenshot_2022-05-11-09-11-09-43_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764073-2db6ca4a-2daa-4ed2-b551-3ce1b79fa5ce.jpg)
-![Screenshot_2022-05-11-09-07-30-84_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764075-b0691aa9-5728-49d2-a43a-def248752250.jpg)
-![Screenshot_2022-05-11-09-07-39-78_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764077-6642119f-ad91-4adc-85dd-1ab192e7db7d.jpg)
-![Screenshot_2022-05-11-09-08-16-58_1d676570cacb6e684194788e73c02585](https://user-images.githubusercontent.com/69602585/167764079-d5f96a2f-91f3-4068-beb9-7c7f0cebbc6d.jpg)
+
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
