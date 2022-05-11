@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54" height="54" viewBox="0 0 54 54">
+  <defs>
+    <filter id="Ellipse_4" x="0" y="0" width="54" height="54" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#50cb93" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_110" data-name="Group 110" transform="translate(-355 -435)">
+    <g transform="matrix(1, 0, 0, 1, 355, 435)" filter="url(#Ellipse_4)">
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="18" cy="18" r="18" transform="translate(9 7)" fill="#50cb93"/>
+    </g>
+    <g id="Upload" transform="translate(370 448)">
+      <g id="Group_108" data-name="Group 108">
+        <rect id="Rectangle_20" data-name="Rectangle 20" width="24" height="24" fill="none"/>
+      </g>
+      <g id="Group_109" data-name="Group 109">
+        <path id="Path_19" data-name="Path 19" d="M18,15v3H6V15H4v3a2.006,2.006,0,0,0,2,2H18a2.006,2.006,0,0,0,2-2V15ZM7,9l1.41,1.41L11,7.83V16h2V7.83l2.59,2.58L17,9,12,4Z" fill="#fafafa"/>
+      </g>
+    </g>
+  </g>
+</svg>
